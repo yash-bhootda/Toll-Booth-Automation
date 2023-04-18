@@ -1,0 +1,2 @@
+python vt_lpr_gui.py
+streamlit run streamlit_code.py
